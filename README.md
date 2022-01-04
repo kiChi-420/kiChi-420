@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiChi-420
 - 👀 I’m interested in learning web- and game development
-- 🌱 I’m currently learning HTML, CSS, and SQL
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 📫 How to reach me: through my email (coming soon)
 
 <!---
