@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiChi-420
 - 👀 I’m interested in learning web- and game development
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently learning HTML, CSS, and C#
 - 📫 How to reach me: through my email: gomben397@hengersor.hu
 
 <!---
