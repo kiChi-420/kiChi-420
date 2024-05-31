@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning HTML, CSS, C# and JavaScript
 - 🎸 I also play the Bass Guitar
 
-- 📫 How to reach me: through my email: gomben397@hengersor.hu
+
+  📫 Your can contact me through:
+- email: gomben397@hengersor.hu
 
 <!---
 kiChi-420/kiChi-420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
