@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiChi-420
-- 👀 I’m interested in learning web- and game development
+- 👀 I’m interested in learning web, game and app development
 - 🌱 I’m currently learning HTML, CSS, C# and JavaScript
 - 🎸 I also play the Bass Guitar
 
