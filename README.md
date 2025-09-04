@@ -5,7 +5,7 @@
 
 
   📫 Your can contact me through:
-- email: gomben397@hengersor.hu
+- email: gombix19.hu@gmail.com
 
 <!---
 kiChi-420/kiChi-420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
